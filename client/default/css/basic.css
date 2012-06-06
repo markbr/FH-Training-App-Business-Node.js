@@ -148,7 +148,7 @@ input.search {
 
 button {
   border-radius: 10px;
-  background-color: #1A70DD;
+  background-color: #98c332;
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5899EB), color-stop(50%, #2B7DE6), color-stop(51%, #1A70DD), color-stop(100%, #1864C6));
   background-image: -webkit-linear-gradient(#5899EB,#2B7DE6 50%,#1A70DD 51%,#1864C6);
   border: 0.1em solid #104281;

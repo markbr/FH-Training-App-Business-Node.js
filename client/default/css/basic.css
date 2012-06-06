@@ -54,6 +54,9 @@ h1, h2, h3, body, html, p, div {
 .body{
 	margin-left:20px;
 	margin-right:20px;
+	border-style:solid;
+	border-width:2px;
+	border-color:#98c332;
 }
 .padding{
 	padding-left:20px;
@@ -153,7 +156,7 @@ button {
   background-image: -webkit-linear-gradient(#5899EB,#2B7DE6 50%,#1A70DD 51%,#1864C6);*/
   border: 0.1em solid #104281;
   border-top-color: #124D98;
-  color: white;
+  color: black;
   text-shadow: rgba(0, 0, 0, 0.5) 0 -0.08em 0;
   -webkit-box-shadow: rgba(255,255,255,0.0);
   font-size: 0.6em;

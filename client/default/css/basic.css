@@ -13,7 +13,8 @@ h1, h2, h3, body, html, p, div {
   padding-bottom:10px;
   text-align:center;
   /* Auto-gen'd */
-  background-color: #111;
+  /*background-color: #111;*/
+  background-color: #98c332;
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #373737), color-stop(50%, #1E1E1E), color-stop(51%, #111), color-stop(100%, #040404));
   background-image: -webkit-linear-gradient(#373737,#1E1E1E 50%,#111 51%,#040404);
   background-image: linear-gradient(#373737,#1E1E1E 50%,#111 51%,#040404);
@@ -53,6 +54,8 @@ h1, h2, h3, body, html, p, div {
 .body{
 	margin-left:20px;
 	margin-right:20px;
+	
+	background-color: #98c332;
 }
 .padding{
 	padding-left:20px;
